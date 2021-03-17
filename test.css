@@ -1,0 +1,24 @@
+a{
+    text-decoration: none;
+}
+a:hover{
+    background-color: #87dfff;
+}
+a:link{
+    color: blueviolet;
+}
+
+h2{
+    color:#ff0000;
+}
+p{
+    margin: 0px;
+}
+
+img{
+    border-radius: 15px;
+    width: 300px;
+}
+img:hover{
+    width: 500px;
+}
