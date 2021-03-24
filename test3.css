@@ -1,0 +1,41 @@
+img{
+    border-radius: 10px;
+    width: 100%;
+}
+a{
+    text-decoration: none ;
+    
+}
+a:hover{
+    background-color: orange;
+    font-size: 50px;
+}
+a:link{
+    background-color: rgb(0, 255, 213);
+}
+p{
+    margin: 10px;
+}
+h2{
+    margin: 10px 0 0;
+    color:red;
+}
+.place{
+    background-color: #bfa;
+}
+#content{
+    max-width: 800px;
+}
+#back{
+    margin-left: 250px;
+}
+img:hover{
+    width: 500px;
+}
+#pic1,#pic2,#pic3,#pic4{
+    width: 250px;
+    box-shadow: 8px 8px 20px rgb(255, 3, 200);
+}
+#pic1:hover,#pic2:hover,#pic3:hover,#pic4:hover{
+    width: 500px;
+    box-shadow: 8px 8px 40px rgb(255, 0, 0);
