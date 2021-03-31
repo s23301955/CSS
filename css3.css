@@ -1,0 +1,39 @@
+.left-nav {
+        width: 145px;
+        height: 330px;
+        padding: 8px 0px 4px 14px;
+        background-color: #eaeaea;
+        margin: 50px;
+    }
+
+    .left-nav>.item {
+        height: 25px;
+        line-height: 25px;
+        font-weight: bold;
+    }
+
+    .item>a:hover {
+        font-family: "Helvetica Neue", "Helvetica Neue";
+        color: #ff1c1c;
+        text-decoration: underline;
+    }
+
+    .item>a {
+        font-size: 15px;
+        color: rgb(95, 95, 95);
+        text-decoration: none;
+    }
+
+    #s1 {
+        position: relative; 
+        left: 45px;
+        top: 4px;
+        visibility: hidden;
+    }
+
+    #s2,#s3,#s4,#s5,#s6,#s7,#s8,#s9,#s10,#s11,#s12,#s13 {
+        position: relative; 
+        left: 25px;
+        top: 4px;
+        visibility: hidden;
+    }
